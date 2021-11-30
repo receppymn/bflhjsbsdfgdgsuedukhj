@@ -1,0 +1,21 @@
+{
+  "name": "ArdaDemr",
+  "version": "1.0.0",
+  "description": "ArdaDemr Versiyon 13 Bot Altyapısı",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "v16"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.0.1",
+    "node": "^16.6.1"
+  }
+}
